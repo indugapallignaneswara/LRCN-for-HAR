@@ -39,7 +39,7 @@ The LRCN model architecture consists of:
 ### Installation
 **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/action-recognition-lrcn.git
+    git clone https://github.com/indugapallignaneswara/LRCN-for-HAR.git
     cd action-recognition-lrcn
     ```
 
